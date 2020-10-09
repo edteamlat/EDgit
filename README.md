@@ -13,31 +13,31 @@ Se recomienda crear una organización que sea la propietaria del repositorio pri
 ### Pasos para crear una organización en GitHub y trabajar en remoto
 
 1. Click en tu foto perfil (Esquina superior derecha).
-![pasos_organización](img/001.png)
+![pasos_organización](img/001.jpg)
 
 2. Click en Settings.
-![pasos_organización](img/002.png)
+![pasos_organización](img/002.jpg)
 
 3. Click en Organizaciones (Menú izquierdo).
-![pasos_organización](img/003.png)
+![pasos_organización](img/003.jpg)
 
 4. Click en Nueva organización.
-![pasos_organización](img/004.png)
+![pasos_organización](img/004.jpg)
 
 5. Elegir el plan que mejor se adapte a nuestro proyecto.
-![pasos_organización](img/005.png)
+![pasos_organización](img/005.jpg)
 
 6. Darle nombre a nuestra organización y registrar email.
-![pasos_organización](img/006.png)
+![pasos_organización](img/006.jpg)
 
 7. Agregar los miembros de nuestra organización por nombre de usuario de GitHub o email.
-![pasos_organización](img/007.png)
+![pasos_organización](img/007.jpg)
 
 8. Llenar un cuestionario de GitHub.
-![pasos_organización](img/008.png)
+![pasos_organización](img/008.jpg)
 
 9. Una vez completados los pasos empezar a trabajar en nuestra nueva organización
-![pasos_organización](img/009.png)
+![pasos_organización](img/009.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ Para crear un *fork* debes iniciar sesión con tu cuenta de GitHub, una vez dent
 
 >En esta ocasión será desde edteamlat/Edgit
 
-![pasos_organización](img/010.png)
+![pasos_organización](img/010.jpg)
 
 ---
 
