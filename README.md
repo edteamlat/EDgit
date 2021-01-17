@@ -28,6 +28,16 @@ git clone https://github.com/username/EDgit.git "mi carpeta"
 git clone https://github.com/username/EDgit.git
 ```
 
+## Crear una nueva rama local
+
+Este procedimiento es sencillo, solo se debe usar el siguiente comando: git branch [Nombre de la rama]
+
+Tambien puedes pasar de una rama a otra con el comando git checkout [nombre de la rama] o git switch [Nombre de la rama]
+
+## Subir una rama al repositorio remoto
+
+git push -u origin [Nombre de la rama]
+
 ## Cómo trabajar con dos o más remotos
 
 Agregar remotos
