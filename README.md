@@ -61,6 +61,16 @@ git remote remove beto
 
 ## Creando etiquetas
 
+Las etiquetas son referencias que uno puede realizar en puntos específicos del historial (bitácora) que considera como importantes. Generalmente se usa para marcar versiones de tu proyecto (por ejemplo v1.0, v0.0.1)
+
 Es necesario entender que las etiquetas (o realeases) sólo deben ser creadas a partir de la rama master como buena práctica. 
 
 Para entender cómo llamar o categorizar a tus versiones te recomendamos un artículo en nuestro blog: [¿Cómo se deciden las versiones de software?](https://ed.team/blog/como-se-deciden-las-versiones-del-software)
+
+Crear etiquetas:
+
+```
+git tag "[número de versión o mensaje]"
+# ejemplo
+git tag "v0.0.1"
+```
