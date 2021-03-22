@@ -23,7 +23,7 @@ Listar remotos
 `git remote -v`
 
 Agregar remotos
-`git remote add EDgit git@github.com:edteamlat/EDgit.git`
+`git remote add EDgit git@github.com:edteamlat/EDgit.git` o `git remote add EDgit https://github.com/edteamlat/EDgit.git`
 
 Eliminar remotos
 `git remote remove EDgit`
