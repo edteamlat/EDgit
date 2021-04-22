@@ -3,7 +3,7 @@ Documentación de flujo de trabajo remoto con GIT
 
 ## Organización
 
-Se recomienda crear una organización que sea la propietaria del repositorio principal. A partir de dicho repositorio los miembros o colaboradores podrán hacer un fork hacia sus cuentas personales.
+Se recomienda crear una organización que sea la propietaria del repositorio principal. A partir de dicho repositorio los miembros o colaboradores podrán hacer un fork hacia sus cuentas personales..
 
 ### Pasos para crear una organización
 
