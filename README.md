@@ -64,3 +64,8 @@ git remote remove beto
 Es necesario entender que las etiquetas (o realeases) sólo deben ser creadas a partir de la rama master como buena práctica. 
 
 Para entender cómo llamar o categorizar a tus versiones te recomendamos un artículo en nuestro blog: [¿Cómo se deciden las versiones de software?](https://ed.team/blog/como-se-deciden-las-versiones-del-software)
+
+
+### Creacion de  FORK 
+
+Para crear un FORK debes iniciar secion en GitHub y luego ingresar a la LADING page del proyecto del que quieras sacar tu FORK.
